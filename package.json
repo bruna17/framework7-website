@@ -82,6 +82,6 @@
     "framework7": "^6.0.7",
     "framework7-react": "^6.0.7",
     "framework7-svelte": "^6.0.7",
-    "framework7-vue": "^6.0.7"
+    "framework7-vue": "^6.0.14"
   }
 }
